@@ -1,192 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:1a0030,100:4a0060&height=180&section=header&text=%20&fontSize=1" width="100%"/>
-
-</div>
-
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                    ▄██▄   ▄██▄                                   ║
-  ║                   ██████ ██████                                  ║
-  ║              ▄████████████████████▄                              ║
-  ║            ██  ░░░░░░░░░░░░░░░░░░  ██                           ║
-  ║           ██    ▒▓███▒   ▒▓███▒     ██                          ║
-  ║           ██     ▀███▀   ▀███▀      ██                          ║
-  ║           ██       ░░  ▽  ░░        ██                          ║
-  ║           ██    ╔══════════════╗    ██                          ║
-  ║            ██   ║▐▌ ▐▌ ▐▌ ▐▌  ║   ██                           ║
-  ║             ▀██ ╚══════════════╝ ██▀                            ║
-  ║                                                                  ║
-  ║         SUBHADIP  ·  16bitOni  ·  鬼  ·  DAEMON ENGINEER        ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=900&color=CC44FF&center=true&vCenter=true&width=640&lines=agents+that+use+tools+%E2%86%92+LangGraph+%2B+Bedrock;fine-tuning+small+models+%E2%86%92+QLoRA+%2B+evals;serving+LLMs+at+load+%E2%86%92+vLLM;C+extensions+on+PyPI+%E2%86%92+yes%2C+really;firmware+that+flies+%E2%86%92+STM32+%2B+ESP32" alt="typing" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070711,40:241047,100:7c3aed&height=190&section=header&text=16bitOni&fontSize=54&fontColor=f5f3ff&fontAlignY=38&desc=building%20agents%20that%20actually%20do%20things&descSize=15&descColor=d8b4fe&descAlignY=62" width="100%" alt="16bitOni — building agents that actually do things" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal89)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subhadipmondal789@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/subhadip_x86)
-![Location](https://img.shields.io/badge/Kolkata%2C_India-0d0010?style=flat-square&logo=googlemaps&logoColor=CC44FF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal89)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/16bitOni)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhadipmondal789@gmail.com)
+
+</div>
+
+```text
+╭──────────────────────────── SYSTEM BOOT ────────────────────────────╮
+│                                                                      │
+│   USER      16bitOni / Subhadip                                      │
+│   CLASS     Applied AI engineer in the making                        │
+│   BUILD     LLM agents · computer use · inference · systems          │
+│   ORIGIN    Electronics, firmware, and a suspicious number of ideas  │
+│   QUEST     Make AI useful outside the chat window                   │
+│                                                                      │
+│   $ ./ship-something-interesting                                     │
+│   > compiling curiosity...                                           │
+│   > shipping anyway.                                                 │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+I like building things that have to **work**, not just produce a convincing demo: agents that operate a desktop, local gateways that make models easier to use, document workflows, and low-level tools where the bytes matter.
+
+My route here started in electronics and embedded systems. These days I'm mostly exploring **Applied AI, agentic systems, LLM infrastructure, and developer tools**—with the occasional detour into compression algorithms and hardware.
+
+## 🎮 Select your adventure
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [DullE](https://github.com/16bitOni/DullE)
+**A computer-use agent for Windows**
+
+Give it a plain-English task; it plans and operates your PC. CLI-first when possible, vision when needed.
+
+- Multi-model planner, executor, and verifier
+- Safety gates, loop detection, and interruption handling
+- Task evals and an audit trail for replaying what happened
+
+`Python` `Computer Use` `Vision` `Evals`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [Bedrock Portal](https://github.com/16bitOni/bedrock-gateway)
+**One local gateway. A lot of models.**
+
+A personal Amazon Bedrock gateway with OpenAI-compatible and Anthropic-compatible APIs.
+
+- Model aliases with ordered fallbacks
+- Per-key budgets, request logs, and cost visibility
+- Playground for comparing models, tools, and multimodal inputs
+
+`AWS Bedrock` `Python` `LLM Infra`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗜️ [DipCompress](https://github.com/16bitOni/dipcompress)
+**I made an image compressor from scratch.**
+
+A lossless image-compression pipeline using row filters, LZ77, Huffman coding, and a custom binary format.
+
+- Optional C extension plus pure-Python fallback
+- Command-line tool and Python API
+- Published package with cross-platform wheels
+
+`Python` `C` `Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [DocPilot](https://github.com/16bitOni/docpilot)
+**Documents, collaboration, and AI in one workspace.**
+
+A collaborative document platform with an AI assistant for searching, analyzing, and editing files.
+
+- PDF / DOCX processing and semantic search
+- FastAPI backend with Supabase and Pinecone
+- Real-time collaboration and version history
+
+`React` `TypeScript` `FastAPI` `RAG`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Side quests:** [Finance Briefing Agent](https://github.com/16bitOni/finance-brifer-agent) · [SEC LLM experiments](https://github.com/16bitOni/SEC_LLM) · [Embedded systems notes](https://github.com/16bitOni/Awesome-Embedded)
 
 </div>
 
 ---
 
-```bash
-$ oni --boot --mode=engineer
-
-[████████████████████] 100%
-
-  IDENTITY .......... subhadip mondal
-  ALIAS ............. 16bitOni  /  鬼
-  ORIGIN ............ kolkata, bengal, india
-  SUBSTRATE ......... B.E. ECE, Chandigarh University
-  CURRENT OPS ....... AI Tutor @ xAI  ·  freelance agents  ·  circuits
-  LANGUAGES ......... Python  ·  C/C++  ·  TypeScript  ·  Elixir  ·  Solidity
-  DIRECTIVE ......... ship > talk
-
-> daemon loaded. systems nominal.
-```
-
----
-
-## ⚙ ACTIVE PROCESSES
-
-```
- PID    DAEMON               STATUS      STACK
- ─────────────────────────────────────────────────────────────────────────────
- 0x001  riki                 RUNNING ▶   LangGraph · Bedrock · Postgres/pgvector
-                             ↳ supervisor routes work: planner · researcher · memory-keeper
-                             ↳ Desktop Operator: sees screen, plans, acts on Windows
-                             ↳ tiered long-term memory + hybrid retrieval
-
- 0x002  handoff              TESTING ▶   Python · Alexa+
-                             ↳ Amazon Devices hackathon · Alexa+ track
-                             ↳ built on top of Desktop Operator
-
- 0x003  llm-inference-mt     RUNNING ▶   vLLM · hot-swap LoRA · AWS
-                             ↳ serving open models to concurrent users
-                             ↳ load-characterization suite included
-
- 0x004  text-to-sql          RUNNING ▶   QLoRA · SageMaker · SQLite
-                             ↳ fine-tuned small-model pipeline
-                             ↳ 55-question eval harness over Chinook
-
- 0x005  job-radar            RUNNING ▶   Python · scraping · classification
-                             ↳ pulls Greenhouse + Lever + Ashby daily
-                             ↳ I am user #1
-```
-
-```mermaid
-flowchart LR
-    style U fill:#1a0033,color:#ff44ff,stroke:#7c3aed
-    style S fill:#1a0033,color:#c084fc,stroke:#7c3aed
-    style P fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-    style R fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-    style M fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-    style D fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-    style DB fill:#050510,color:#818cf8,stroke:#4c1d95
-    style S3 fill:#050510,color:#818cf8,stroke:#4c1d95
-    style V fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-    style W fill:#0d1117,color:#c4b5fd,stroke:#4c1d95
-
-    U([鬼]) --> S{{Supervisor}}
-    S --> P[Planner]
-    S --> R[Researcher]
-    S --> M[Memory]
-    M <--> DB[(pgvector)]
-    M <--> S3[(S3)]
-    S --> D[Desktop Op]
-    D -->|screenshot| V[Vision]
-    V -->|plan| D
-    D -->|approved actions| W[Windows]
-```
-
----
-
-## 🗡 ARTIFACTS  *(shipped, real, in the wild)*
-
-| artifact | what it is |
-|---|---|
-| **DipCompress** | compression lib with C extensions · published on PyPI · wheels via `cibuildwheel` · OIDC trusted publishing, zero tokens in secrets |
-| **[DocPilot](https://github.com/16bitOni/docpilot)** | collaborative document AI · React + TypeScript front end · FastAPI back end · Supabase + Pinecone · [live ↗](https://docpilot-livid.vercel.app) |
-| **[Gmail Assistant](https://github.com/16bitOni/gmail_assistant)** | LLM agent over inbox threads · chains web search · Google Calendar · Slack · reply drafting |
-| **QLoRA fine-tunes** | Phi-2 + Phi-3 for text-to-SQL · trained on SageMaker GPUs · eval harness included |
-| **RAG + agent pipelines** | production-shaped · not toy demos |
-
----
-
-## ⚡ PHYSICAL LAYER
-
-```
-before the LLM era, the work was in the metal.
-
-drone startup — STM32 + ESP32 firmware · KiCad board design · RTSP video streaming.
-still do circuit design on the side.
-it keeps the software honest about latency, memory, and things that physically break.
-```
-
----
-
-## 🔮 ARSENAL
+## 🧰 Inventory
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,c,cpp,ts,js,elixir&theme=dark)
-![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,sqlite,elasticsearch&theme=dark)
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark)
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,firebase,docker,git,github,vercel,netlify&theme=dark)
-![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%20%2F%20C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
 </div>
 
 <details>
-<summary><b>▶ open grimoire</b></summary>
+<summary><b>🧪 Open the full inventory</b></summary>
 
-<br/>
-
-| domain | weapons |
+| Zone | Tools & topics |
 |---|---|
-| **LLM / agents** | LangGraph · AWS Bedrock · tool use · MCP · RAG (hybrid retrieval) · evals · QLoRA · Unsloth · vLLM |
-| **ML** | PyTorch · TensorFlow · Keras · scikit-learn · SciPy · MLflow · CUDA |
-| **data** | Pandas · NumPy · Plotly · Matplotlib · SQL |
-| **backend** | FastAPI · Node/Express · Next.js · EJS · SQLAlchemy · Alembic · Pydantic |
-| **datastores** | Postgres + pgvector · MongoDB · MySQL · SQLite · Elasticsearch · Pinecone · Firebase |
-| **infra** | AWS · GCP · Docker · GitHub Actions · Render · Heroku · Vercel · Netlify |
-| **systems / hw** | C · C++ · STM32 · ESP32 · Arduino · KiCad · FFmpeg · OpenCV |
-| **other** | Elixir · Solidity · Git |
+| **Agents & LLMs** | LangGraph, tool calling, RAG, MCP, model routing, QLoRA, evaluation |
+| **Inference** | vLLM, AWS Bedrock, model serving, latency and load testing |
+| **ML** | PyTorch, scikit-learn, Transformers, pandas, NumPy |
+| **Backend** | Python, FastAPI, TypeScript, REST APIs, WebSockets |
+| **Data & retrieval** | PostgreSQL, pgvector, Pinecone, SQLite, MongoDB |
+| **Infrastructure** | AWS, Docker, GitHub Actions, CI/CD |
+| **Systems** | C/C++, STM32, ESP32, KiCad, Linux |
 
 </details>
 
----
-
-## 📡 SIGNAL
+## 📡 Live from the terminal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=16bitOni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bitOni&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=16bitOni&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bitOni&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=16bitOni&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=16bitOni&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=c4b5fd" alt="GitHub contribution streak" />
 
 </div>
 
----
+## 🧭 Current philosophy
+
+> An agent isn't good because it said the right thing. It's good because it did the right thing, survived the messy bits, and can show you what happened.
+
+I care about tool reliability, measurable evaluations, useful failure recovery, and software that stays understandable when the demo ends.
+
+## 🤝 Find me in the real world
+
+- **LinkedIn:** [subhadipmondal89](https://linkedin.com/in/subhadipmondal89)
+- **Email:** [subhadipmondal789@gmail.com](mailto:subhadipmondal789@gmail.com)
+- **GitHub:** [@16bitOni](https://github.com/16bitOni)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0060,50:1a0030,100:050510&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:241047,100:070711&height=110&section=footer" width="100%" alt="" />
 
-```
-PROCESS 16bitOni  —  STATUS: RUNNING  —  UPTIME: ∞  —  ORIGIN: kolkata, bengal
-```
-
-<sub>built here. powered by chai and stubbornness.</sub>
+<sub>made with curiosity, questionable sleep schedules, and a little bit of oni energy 👹</sub>
 
 </div>
