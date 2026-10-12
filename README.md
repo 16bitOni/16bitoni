@@ -1,22 +1,129 @@
-# 💫 About Me:
+<div align="center">
 
-- 🔭 I’m currently working on SecWolf Porject
-- 🌱 I’m currently learning DL and NLP
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhadip_x86) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal89) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhadipmondal789@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:6366f1&height=190&section=header&text=Subhadip&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20act%2C%20not%20just%20answer&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=16bitoni&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=16bitoni&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=16bitoni&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=640&lines=agents+that+use+tools+%E2%86%92+LangGraph+%2B+Bedrock;fine-tuning+small+models+%E2%86%92+QLoRA+%2B+evals;serving+LLMs+at+load+%E2%86%92+vLLM;C+extensions+on+PyPI+%E2%86%92+yes%2C+really;firmware+that+flies+%E2%86%92+STM32+%2B+ESP32" alt="typing" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=16bitoni&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadipmondal89)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subhadipmondal789@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/subhadip_x86)
+![Location](https://img.shields.io/badge/Kolkata%2C_India-111827?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/open_to-FDE_%2F_Applied_AI_roles-6366f1?style=flat-square)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=16bitoni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class Subhadip:
+    location   = "Kolkata, India"
+    education  = "B.E. Electronics & Communication, Chandigarh University"
+    day_jobs   = ["AI Tutor @ xAI", "freelance AI agents + circuit design"]
+    roots      = "Bengal"
+    languages  = ["Python", "C/C++", "TypeScript", "Elixir", "Solidity"]
+    obsessions = ["agents", "evals", "inference", "embedded systems"]
+    looking_for = "Forward Deployed / Applied AI Engineer, early-stage, remote"
+    long_game  = "found something of my own"
+
+    def current_mode(self):
+        return "ship > talk"
+```
+
+## 🔭 What I'm building right now
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Riki** | Multi-agent personal assistant. A supervisor routes work to planner, researcher and memory-keeper agents. Tiered long-term memory with hybrid retrieval. Includes a *Desktop Operator* that sees the screen, plans and acts on a real Windows desktop, with an allowlist and approval for risky steps. | FastAPI · LangGraph · AWS Bedrock · Postgres/pgvector · SQLAlchemy 2.0 async |
+| **Handoff** | My entry for the Amazon Devices hackathon, Alexa+ track, built on the Desktop Operator work. | Python · Alexa+ |
+| **Multi-tenant LLM inference** | Serving open models to many concurrent users: vLLM, hot-swappable LoRA adapters, and a proper load-characterization suite. | vLLM · LoRA · AWS |
+| **Text-to-SQL with guardrails** | Fine-tuned small-model pipeline with a held-out eval harness (55 questions over Chinook) and checks that the SQL actually answers the question asked. | QLoRA · SageMaker · SQLite |
+| **Job Radar** | Pulls Greenhouse, Lever and Ashby boards daily, classifies roles and detects hiring signals. I'm user #1: it finds me remote USD roles. | Python · scraping · classification |
+
+```mermaid
+flowchart LR
+    U([You]) --> S{{Supervisor}}
+    S --> P[Planner]
+    S --> R[Researcher]
+    S --> M[Memory keeper]
+    M <--> DB[(Postgres + pgvector)]
+    M <--> S3[(S3 source of truth)]
+    S --> D[Desktop Operator]
+    D -->|screenshot| V[Vision]
+    V -->|plan| D
+    D -->|approved actions| W[Windows desktop]
+```
+
+## 🧪 Shipped
+
+- **DipCompress**: a compression package with C extensions, published on PyPI. Wheels built with `cibuildwheel` and released through GitHub Actions OIDC trusted publishing, no tokens in secrets.
+- **[DocPilot](https://github.com/16bitOni/docpilot)**: collaborative document AI platform. React + TypeScript front end, FastAPI back end, Supabase Postgres, Pinecone. [Live demo](https://docpilot-livid.vercel.app).
+- **[Gmail Assistant](https://github.com/16bitOni/gmail_assistant)**: an LLM agent that reads inbox threads and chains tools across web search, Google Calendar, Slack and reply drafting.
+- **QLoRA fine-tunes**: Phi-2 and Phi-3 for text-to-SQL, trained on SageMaker GPUs.
+- **RAG and agent pipelines** in production-shaped form.
+
+## 🛠️ Hardware side quest
+
+Before the LLM era I was doing firmware and PCBs at a drone startup: **STM32 / ESP32** firmware, **KiCad** board design and **RTSP** video streaming. I still do circuit design on the side. It keeps my software honest about latency, memory and things that physically break.
+
+## 🧰 Toolbox
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python,c,cpp,ts,js,elixir&theme=dark)
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,sqlite,elasticsearch&theme=dark)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,firebase,docker,git,github,vercel,netlify&theme=dark)
+![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark)
+
+</div>
+
+<details>
+<summary><b>The full list, including the less glamorous parts</b></summary>
+
+<br/>
+
+| Area | Things I use |
+|---|---|
+| **LLM / agents** | LangGraph, AWS Bedrock, tool use, MCP, RAG (hybrid retrieval), evals, QLoRA / Unsloth, vLLM |
+| **ML** | PyTorch, TensorFlow, Keras, scikit-learn, SciPy, MLflow, CUDA |
+| **Data** | Pandas, NumPy, Plotly, Matplotlib, SQL |
+| **Backend** | FastAPI, Node / Express, Next.js, EJS, SQLAlchemy, Alembic, Pydantic |
+| **Datastores** | Postgres + pgvector, MongoDB, MySQL, SQLite, Elasticsearch, Pinecone, Firebase |
+| **Infra** | AWS, GCP, Docker, GitHub Actions, Render, Heroku, Netlify, Vercel |
+| **Systems / HW** | C, C++, STM32, ESP32, Arduino, KiCad, FFmpeg, OpenCV |
+| **Other** | Elixir, Solidity, Notion, Git |
+
+</details>
+
+## 📊 Numbers, for the people who like numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=16bitOni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bitOni&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=16bitOni&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+## 🎯 Working with me
+
+I'm after **Forward Deployed Engineer** and **Applied AI Engineer** roles at early-stage startups, remote preferred. I'm at my best when the problem is messy and the customer is real: take a vague need, build the thing, put it in front of users, measure it honestly.
+
+Good reasons to message me:
+- you need an agent that works on real tasks, not just demos
+- you want a model fine-tuned, served and evaluated end to end
+- your product touches hardware and AI at the same time
+- you're building something early and need someone who ships
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1f2937,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
+
+<sub>Built in Kolkata. Powered by chai and stubbornness.</sub>
+
+</div>
