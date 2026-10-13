@@ -1,175 +1,248 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="ascii drone flying over a terminal" />
+<img src="./banner.svg" width="100%" alt="ASCII drone flying over a terminal" />
 
 <br/>
 
 ![Python](https://img.shields.io/badge/python-111827?style=flat-square&logo=python&logoColor=a5b4fc)
-![C](https://img.shields.io/badge/c-111827?style=flat-square&logo=c&logoColor=a5b4fc)
+![C/C++](https://img.shields.io/badge/C%20%2F%20C++-111827?style=flat-square&logo=cplusplus&logoColor=a5b4fc)
 ![Elixir](https://img.shields.io/badge/elixir-111827?style=flat-square&logo=elixir&logoColor=a5b4fc)
 ![PyTorch](https://img.shields.io/badge/pytorch-111827?style=flat-square&logo=pytorch&logoColor=a5b4fc)
 ![ESP32](https://img.shields.io/badge/esp32-111827?style=flat-square&logo=espressif&logoColor=a5b4fc)
-![mood](https://img.shields.io/badge/mood-tinkering-111827?style=flat-square&labelColor=6366f1)
+![mood](https://img.shields.io/badge/mood-building%20%26%20exploring-111827?style=flat-square&labelColor=6366f1)
 
 </div>
 
 ---
 
-hey. i like building things and then finding out why they broke.
+<table>
+<tr>
+<td width="56%" valign="top">
 
-most of it is **AI that does stuff** (agents, fine-tuned small models, eval harnesses, serving models without them falling over) and the rest is **hardware that does stuff** (firmware, PCBs, things that fly). the interesting part is usually where the two collide.
+### 16bitOni@github:~$ whoami
 
-```text
- ┌──────────────────────────────────────────────┐
- │  status      : building                      │
- │  coffee      : yes                           │
- │  sleep       : negotiable                    │
- │  side quests : many                          │
- └──────────────────────────────────────────────┘
-```
+~~~text
+name       : Subhadip Mondal
+role       : Applied AI engineer
+interests  : agents, systems, hardware
+location   : India → mountains → somewhere new
+currently  : building useful things
+status     : curious, consistently
+~~~
 
-## 🧪 stuff i've made
+</td>
+<td width="44%" valign="middle">
 
-| | |
+### Building useful things
+
+at the intersection of **AI, systems, and the real world**.
+
+I like understanding how things work under the hood: agents that use tools, models that survive real workloads, and hardware that has to obey physics.
+
+Also into travel, geopolitics, good design, and ideas that start as “what if?”
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**AI AGENTS** &nbsp; · &nbsp; **SYSTEMS THAT DON'T FALL OVER** &nbsp; · &nbsp; **HARDWARE THAT FLIES** &nbsp; · &nbsp; **IDEAS THAT TRAVEL**
+
+</div>
+
+## 🧩 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [DullE](https://github.com/16bitOni/DullE)
+
+**A Windows computer-use agent**
+
+Give it a task in plain English. It plans, uses the CLI when possible, falls back to vision when needed, and verifies what happened.
+
+- Multi-model planning, execution, and verification
+- Safety gates, loop detection, and interruption handling
+- Evaluation suite and replayable audit trail
+
+**Python · Computer Use · Vision · Evals**
+
+[↗ Explore the code](https://github.com/16bitOni/DullE)
+
+</td>
+<td width="50%" valign="top">
+
+### [Bedrock Portal](https://github.com/16bitOni/bedrock-gateway)
+
+**A local gateway for many models**
+
+One local endpoint for Amazon Bedrock models, with OpenAI-compatible and Anthropic-compatible APIs.
+
+- Model aliases and fallback chains
+- Per-key budgets, request logs, and cost tracking
+- Playground for comparing models and multimodal requests
+
+**AWS · LLM Infrastructure · Python**
+
+[↗ Explore the code](https://github.com/16bitOni/bedrock-gateway)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [DocPilot](https://github.com/16bitOni/docpilot)
+
+**Documents, collaboration, and AI**
+
+A collaborative document workspace with an AI assistant for searching, analyzing, and editing files.
+
+- PDF and DOCX processing
+- Semantic search with vector storage
+- Collaborative editing and version history
+
+**React · TypeScript · FastAPI · RAG**
+
+[↗ Try the live app](https://docpilot-livid.vercel.app) · [Code](https://github.com/16bitOni/docpilot)
+
+</td>
+<td width="50%" valign="top">
+
+### [DipCompress](https://github.com/16bitOni/dipcompress)
+
+**An image compressor built from scratch**
+
+Lossless compression with row filters, LZ77, Huffman coding, and a custom binary format.
+
+- Optional C extension with Python fallback
+- CLI and Python API
+- Published package with cross-platform wheels
+
+**Python · C · Algorithms**
+
+[↗ Explore the code](https://github.com/16bitOni/dipcompress) · [PyPI](https://pypi.org/project/dipcompress/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More experiments:** [Finance Briefing Agent](https://github.com/16bitOni/finance-brifer-agent) · [SEC LLM](https://github.com/16bitOni/SEC_LLM) · [Awesome Embedded](https://github.com/16bitOni/Awesome-Embedded)
+
+</div>
+
+---
+
+## 🌌 A small playground
+
+> The world is big, the tools keep getting better, and there is always something worth figuring out.
+
+<details>
+<summary><b>🚁 Flight log</b></summary>
+
+~~~text
+       -o-       -o-
+          \\___//
+           [oo]       drone online
+
+  objective : see what happens
+  constraint: gravity
+  outcome   : learned something
+~~~
+
+The embedded-systems chapter taught me that the physical world is a very strict code reviewer.
+
+</details>
+
+<details>
+<summary><b>🧠 A note on agents</b></summary>
+
+~~~text
+  plan → act → observe → verify → recover
+~~~
+
+An agent isn't good because it said the right thing. It's good because it did the right thing, handled the messy bits, and can show you what happened.
+
+</details>
+
+<details>
+<summary><b>🐈 Mandatory cat break</b></summary>
+
+~~~text
+ /\_/\\
+( o.o )    approved.
+ > ^ <
+~~~
+
+You may now return to your regularly scheduled debugging.
+
+</details>
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,ts,js,elixir&theme=dark)
+
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,postgres,mongodb,mysql,sqlite&theme=dark)
+
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)
+
+![Infrastructure](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel&theme=dark)
+
+![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark)
+
+</div>
+
+<details>
+<summary><b>Everything in the toolbox</b></summary>
+
+| Area | Tools & topics |
 |---|---|
-| **[DocPilot](https://github.com/16bitOni/docpilot)** | collaborative document AI. [live here](https://docpilot-livid.vercel.app). |
-| **[Gmail Assistant](https://github.com/16bitOni/gmail_assistant)** | an agent that reads your inbox and then does something about it: searches the web, checks your calendar, pings Slack, drafts replies. |
-| **DipCompress** | a compression package with C extensions, on PyPI. yes i wrote C and shipped it. |
-| **tiny SQL model** | fine-tuned a small model to write SQL. then built an eval harness to find out how wrong it was. |
-
-more in the repos below. some are great, some are experiments, a few are crimes.
-
-## 🕹️ playground
-
-> nothing here is useful. that's the point.
-
-<details>
-<summary><b>▶ press start</b></summary>
-
-<br/>
-
-**pick a door:**
-
-<details>
-<summary>🚪 door 1</summary>
-
-```text
-      -o-   -o-
-        \\_//
-        [oo]      a drone.
-                  it wobbles. it flies. it was a questionable idea.
-                  naturally you do it again.
-```
+| **Agents & LLMs** | LangGraph, tool calling, RAG, MCP, QLoRA, evaluation |
+| **Inference** | vLLM, AWS Bedrock, model routing, load testing |
+| **ML & data** | PyTorch, Transformers, scikit-learn, SciPy, pandas, NumPy, Plotly |
+| **Backend** | Python, FastAPI, TypeScript, Node.js, REST APIs, WebSockets |
+| **Storage & search** | PostgreSQL, pgvector, Pinecone, SQLite, MongoDB, Elasticsearch |
+| **Infrastructure** | AWS, Google Cloud, Docker, GitHub Actions, CI/CD |
+| **Systems & hardware** | C/C++, STM32, ESP32, KiCad, Arduino, OpenCV, FFmpeg |
 
 </details>
 
-<details>
-<summary>🚪 door 2</summary>
+## 🛠️ Currently
 
-```text
-   ┌───────────┐
-   │ SELECT *  │   a small model writing SQL.
-   │ FROM life │   mostly correct. confidence: unreasonable.
-   │ WHERE ... │
-   └───────────┘
-```
+- Building and testing useful AI tools.
+- Exploring agent reliability, evaluation, and model-serving systems.
+- Keeping one foot in software and the other in the physical world.
+- Collecting places, perspectives, and better questions.
 
-</details>
-
-<details>
-<summary>🚪 door 3</summary>
-
-```text
-   $ sudo rm -rf /
-   nice try.
-   (the good ones don't fall for it either)
-```
-
-</details>
-
-</details>
-
-<details>
-<summary><b>🐈 pet the cat</b></summary>
-
-```text
-   /\_/\
-  ( o.o )   purrrrr
-   > ^ <
-```
-
-you've been pinned as a person of taste.
-
-</details>
-
-<details>
-<summary><b>🔮 ask the debugging oracle</b></summary>
-
-```text
-   .-"""-.
-  /  ___  \
- |  (o o)  |   "have you tried printing the variable?"
-  \  \_/  /
-   '-...-'
-```
-
-it's always the variable.
-
-</details>
-
-<details>
-<summary><b>⚠️ do not open</b></summary>
-
-```text
-   ¯\_(ツ)_/¯
-```
-
-told you.
-
-</details>
-
-## 🧰 toolbox
+## 📊 GitHub telemetry
 
 <div align="center">
 
-![langs](https://skillicons.dev/icons?i=python,c,cpp,ts,js,elixir&theme=dark)
-![backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,postgres,mongodb,mysql,sqlite,elasticsearch&theme=dark)
-![ml](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark)
-![infra](https://skillicons.dev/icons?i=aws,gcp,firebase,docker,git,github,vercel,netlify,heroku&theme=dark)
-![hw](https://skillicons.dev/icons?i=arduino,linux&theme=dark)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=16bitOni&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=818cf8&text_color=e5e7eb" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bitOni&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=e5e7eb" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=16bitOni&hide_border=true&background=0d1117&ring=818cf8&fire=c4b5fd&currStreakLabel=a5b4fc" alt="Contribution streak" />
 
 </div>
 
-<details>
-<summary>the unabridged list</summary>
-
-<br/>
-
-C · C++ · Python · JavaScript · Elixir · Solidity · FastAPI · Express · Node · Next.js · EJS · Postgres · MongoDB · MySQL · SQLite · Elasticsearch · Firebase · PyTorch · TensorFlow · Keras · scikit-learn · SciPy · Pandas · NumPy · Plotly · Matplotlib · MLflow · OpenCV · CUDA · FFmpeg · Docker · AWS · Google Cloud · Render · Heroku · Netlify · Git · Arduino · Notion
-
-</details>
-
-## 📊 receipts
+## 📡 Signal
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=16bitOni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bitOni&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=16bitOni&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
-## 📡 signal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=a5b4fc)](https://linkedin.com/in/subhadipmondal89)
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=a5b4fc)](mailto:subhadipmondal789@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=a5b4fc)](https://instagram.com/subhadip_x86)
+[![X](https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=a5b4fc)](https://x.com/16bitOni)
 
-<div align="center">
+<br/>
 
-<sub>no cookies · no pitch · just vibes and commits</sub>
-
-[![](https://visitcount.itsvg.in/api?id=16bitoni&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>Same sky, different terminals. Keep exploring.</sub>
 
 </div>
