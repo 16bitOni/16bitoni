@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="ascii drone flying over a terminal" />
+<img src="./banner.svg" width="100%" alt="ascii drone flying over a terminal" />
 
 <br/>
 
